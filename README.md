@@ -10,7 +10,7 @@ The society is grounded on language, so is the language that allows us to expres
 
 In this context, there is a lot of space for using technology in education and to bring people together. This Playground is a game with the intent to facilitate the learning of Libras’s alphabet for children. The game consists that the player has to guess a letter of the image’ name/meaning through a keyboard constituted by signs instead of letters. The images used are emojis because its meaning is usually clear, easy to understand and represent a large part of daily life. Thus, this is a simple game as an exercise to children learn which sign represent each letter.
 
-The real inclusion only happens when all society are involved in this process, and this process is not just educational but it is social task.
+The real inclusion only happens when all society are involved in this process, and this process is not just educational but it is a social task.
 
 Thanks, and enjoy.
 
